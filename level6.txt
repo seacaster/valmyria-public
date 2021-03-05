@@ -1,0 +1,48 @@
+I'm sending you all info on what you get when leveling up to 6, since that's happening whenever you guys get to the next long rest.
+
+Abraxos
+- Additional spell known (7) (counterspell)
+- Replace known spell, if you want (replace hold person with major image)
+- Dark One's Own Luck: Once per short/long rest, add a d10 to an ability check or saving throw. Can happen after the initial roll, but must happen before the roll takes effect.
+
+Alba
+- Additional 3rd level spell slot (4-3-3)
+- Strikes in beast form are magical (mainly for overcoming damage resistance)
+- Max Wild Shape CR is now 2. New creatures (HP/AC/speed/features/hit bonus/damage):
+	- Cave bear (HP42/AC12/40ft+30ft swim/multiattack/+7 hit/1d8+5+2d6+5)
+	- Giant boar (HP42/AC12/40ft/charge/relentless/+5 hit/2d6+3)
+	- Giant constrictor snake (HP60/AC12/30ft+30ft swim/+6 hit/2d6+4, or 2d8+4 and grapple)
+	- Giant elk (!) (HP42/AC14/60ft/charge/+6 hit/2d6+4, or 4d8+4 if enemy is prone)
+	- Hunter shark (HP45/AC12/40ft swim/blood frenzy/+6 hit/2d8+4)
+	- Polar bear (HP42/AC12/40ft+30ft swim/multiattack/+7 hit/1d8+5+2d6+5)
+	- Rhinoceros (HP45/AC11/40ft/charge/+7 hit/2d8+5)
+
+Fregley
+- Aura of Protection: You and all friendly creatures within 10 ft. have bonuses to all saving throws equal to your CHA modifier (+2). You must be conscious to grant this bonus.
+
+Lavander
+- Ask about Extra Attack v. Coordinated Attack
+- Replace known spell, if you want
+- Greater Favored Enemy
+	- Damage bonus is +4
+	- Advantage on saves against spells and abilities used by a greater favored enemy
+	- Pick aberrations, celestials, constructs, dragons, elementals, fiends, or giants as a second favored enemy
+
+Rubis
+- Additional spell known (9) (fear)
+- Replace known spell, if you want
+- Additional 3rd level spell slot (4-3-3)
+- Spirit Session: Once per long rest, you can do an hour long ritual with up to PB creatures. At the end of the session, you know a divination or necromancy spell until the next long rest (spell level <= # creatures in ritual, and the spell doesn't count against # of spells known)
+- Spiritual Focus upgrade: Spells that deal damage/restore HP add a d6 to damage/healing
+- Countercharm: as an action, you and any friendly creatures within 30 ft. that can hear you have advantage on saves against frighten or charm. This lasts until the end of your next turn.
+
+Rus
+- Two additional infusions known (6)
+	- Access to Boots of the Winding Path, Radiant Weapon, Repulsion Shield, Resistant Armor, and Spell-Refueling Ring as possible infusions known (level 6 requirement)
+	- Also note new Tasha's infusions (either brand-new or with decreased level requirements)
+		- Mind Sharpener (new in Tasha's, no level requirement) uses charges to guarantee CON save successes
+		- Homonculus Servant (decreased level requirement)
+		- Armor of Magical Strength (new in Tasha's)
+- Replace a known infusion if you want
+- One additional infusion slot (3 from class, 1 from Digby's)
+- Tool Expertise

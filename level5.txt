@@ -1,0 +1,35 @@
+Everyone
+- Must roll for health. Can choose to re-roll, but must use the second roll.
+- Proficiency bonus increases to +3
+
+Abraxos
+- Invocation
+- New spell (6 known)
+- 3rd level slots
+- Access to Fireball, Stinking Cloud (from Fiend)
+
+Alba
+- 3rd level slots
+- More spells prepared (WIS + level = 8)
+
+Lavander
+- 2nd level slots
+- More spells known (4)
+- Coordinated Attack (Catmint using reaction to attack)
+- Catmint's PB increases (added to AC and damage as well)
+- Another hit die for Catmint
+
+Rubis
+- 3rd level slots
+- Another spell known (8)
+- Bardic die is d8 (recovered on SR/LR now)
+- Psychic Blades damage increases to 3d6
+- Magical Inspiration (from Tasha's): anyone with Bardic can use it to add to healing/damage
+
+Rus
+- 2nd level slots
+- Branding Smite/Warding Bond for free
+- Extra Attack
+- Steel Defender PB increases
+- Steel Defender HP increases by 5
+- Steel Defender saves, skills, passive perception, damage, repair improves
