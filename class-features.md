@@ -73,6 +73,13 @@ urlcolor: blue
 - No flying speed, but swimming speed OK
 - Wild Shape attacks count as magical for overcoming resistance/immunity
 
+### Wild Companion (Tasha's)
+
+- As an **action**, you can cast Find Familiar without material components by
+  expending a use of Wild Shape
+- The familiar is a fey instead of a beast, and it disappears after 3 hours
+  (druid level / 2).
+
 ## Feats
 
 ### Chef
@@ -138,7 +145,7 @@ urlcolor: blue
       - Choose 1 creature within 10 feet
       - All of your attack rolls against this creature have advantage for 1
         minute, or until it drops to 0 HP or falls unconscious.
-  3.  Harness Divine Power (**bonus action**)
+  3.  Harness Divine Power (Tasha's, **bonus action**)
       - Regain an expended spell slot, max level 2 (ceiling(PB / 2))
       - Usable once per long rest. Gain additional use per long rest at 7th and
         15th level.
