@@ -1,0 +1,75 @@
+---
+toc: true
+numbersections: true
+geometry: margin=1in
+urlcolor: blue
+---
+
+# Fiend Warlock Features
+
+- 3 cantrips
+- 2 spell slots (Lv. 3)
+  - 7 spells known
+  - Spell save DC 14 (8 + CHA + PB)
+- Pact of the Tome
+  - 3 additional cantrips from any class
+
+## Eldritch Invocations
+
+1. Agonizing Blast (+CHA to EB)
+2. Mask of Many Faces (Disguise Self at will)
+3. Fiendish Vigor (False Life at will)
+
+## Dark One's Own Luck
+
+- Once per short/long rest, you can add a d10 to an ability check or saving
+  throw.
+- Can choose to add the d10 after seeing the initial roll, but must choose
+  whether to add it before effects occur
+
+# Feats
+
+## Actor
+
+- Advantage on CHA (Deception) and CHA (Performance) checks when passing
+  yourself off as another person
+- Can mimic speech/sound made by other people/creatures
+  - Must have heard the sound for 1 minute
+  - WIS (Insight) contested by your CHA (Deception) to tell that it's fake
+
+## Observant
+
+- Can read lips if you can see a creature's mouth and it is speaking a language
+  you understand
+- +5 to passive WIS (Perception) and passive INT (Investigation)
+
+# Magic Items
+
+## Sasha's Scatterbrained Spell-Storer
+
+**Description**
+
+This ring once belonged to Sasha, an infamously forgetful sorcerer who used it
+to ensure that he would always be able to cast his favorite spells, whether he
+remembered how to invoke them or not. According to legend, he lost this ring in
+a duel when he forgot its Command Word.
+
+**Usage** (requires attunement)
+
+The ring has 5 charges, and recovers 1d4 charges at the end of a long rest.
+
+You can speak the ring's Command Word (with the same casting time as the
+original spell) to cast its held spell without using a spell slot. The spell's
+level is determined by the number of charges consumed:
+
+| Level     |  1  |  2  |  3  |
+| --------- | :-: | :-: | :-: |
+| # Charges |  2  |  3  |  5  |
+
+At the end of a long rest, you can change the spell held in this item, or remove
+the currently held spell.
+
+The ring can hold one spell at a time, and the chosen spell is not on your spell
+list as long as it remains in the item.
+
+This item does not remove the Concentration requirement from its held spell.
