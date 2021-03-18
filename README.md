@@ -1,6 +1,6 @@
 # valmyria-public
 
-**_Current character level_**: 6
+**Current character level: 6**
 
 If you're looking for a full list of a character's current features and magic items, check out the [characters folder](characters).
 
