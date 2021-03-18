@@ -1,5 +1,5 @@
-Character\ Sheets/
-Damage\ Calcs/
-Sidequests/
+Character\ Sheets
+Damage\ Calcs
+Sidequests
 spell-lists
-spell-lists/spell-list-links*
+**/*.sh
