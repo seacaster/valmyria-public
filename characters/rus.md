@@ -17,13 +17,13 @@ urlcolor: blue
   2.  Enhanced Weapon
   3.  Repeating Shot
   4.  Replicate Magic Item (Alchemy Jug)
-  5.
-  6.
+  5.  Radiant Weapon
+  6.  Homonculus Servant
 - 4 infused items, max (3 from class, 1 from Digby's Hand)
-  1.  Digby's Hand (Repeating Shot)
+  1.  Digby's Hand (Radiant Weapon)
   2.  Shield (Enhanced Defense)
-  3.  Quarterstaff? (Enhanced Weapon)
-  4.
+  3.  Homonculus
+  4.  Lavander weapon (Enhanced Weapon)
 - INT for attack and damage rolls with a magic weapon
 
 ## Spells (as of 3/13/21):
