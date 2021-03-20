@@ -10,9 +10,9 @@ Everyone increases HP. Other than that:
 
 - Spell slots become 4th level
   - Access to 4th level spells
-- Additional spell known (8)
-- Replace known spell, if you want
-- Additional Invocation (4)
+- Additional spell known (8): Banishment
+- Replace known spell, if you want: Shadow of Moil (replacing Invisibility)
+- Additional Invocation (4): Maddening Hex
 
 # Alba
 
