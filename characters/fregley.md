@@ -14,6 +14,27 @@ urlcolor: blue
   - Thaumaturgy, Word of Radiance
 - Divine Health: Immune to disease
 
+## Spells (as of 3/13/21)
+
+### Cantrips
+
+- Thaumaturgy
+- Word of Radiance
+
+### 1st Level
+
+- Thunderous Smite
+- Shield of Faith
+- Bane
+- Hunter's Mark
+- Command
+
+### 2nd Level
+
+- Zone of Truth
+- Hold Person
+- Misty Step
+
 ## Divine Sense
 
 - 1 + CHA uses per long rest, **action** to use, 60 foot radius

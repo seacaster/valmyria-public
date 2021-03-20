@@ -14,11 +14,38 @@ urlcolor: blue
 - Pact of the Tome
   - 3 additional cantrips from any class
 
+## Spells (as of 3/13/21):
+
+### Cantrips
+
+- Eldritch Blast
+- Frostbite
+- Shocking Grasp
+- Message
+- Shape Water
+- Thaumaturgy
+- Toll the Dead
+
+### Pact Magic (3rd Level)
+
+- Fireball
+- Counterspell (in Sasha's)
+- Major Image
+- Armor of Agathys
+- Hex
+- Invisibility
+- Misty Step
+
+TODO: After next long rest, update to 4th level slots, drop Invisibility, and
+add Banishment and Shadow of Moil
+
 ## Eldritch Invocations
 
 1. Agonizing Blast (+CHA to EB)
 2. Mask of Many Faces (Disguise Self at will)
 3. Fiendish Vigor (False Life at will)
+
+TODO: After next long rest, add Maddening Hex
 
 ## Dark One's Own Luck
 

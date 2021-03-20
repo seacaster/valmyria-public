@@ -26,6 +26,29 @@ urlcolor: blue
   4.
 - INT for attack and damage rolls with a magic weapon
 
+## Spells (as of 3/13/21):
+
+### Cantrips
+
+- Fire Bolt
+- Mage Hand
+
+### 1st Level
+
+- Catapult
+- Cure Wounds
+- Identify
+- False Life
+- Heroism
+- Shield
+
+### 2nd Level
+
+- Aid
+- Heat Metal
+- Branding Smite
+- Warding Bond
+
 ## Magical Tinkering
 
 - As an **action**, touch a Tiny nonmagical object with thieves' tools or

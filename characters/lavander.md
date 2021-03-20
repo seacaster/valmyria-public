@@ -14,6 +14,19 @@ urlcolor: blue
   - Add ability modifier to damage of the second attack while two-weapon
     fighting
 
+## Spells (as of 3/13/21)
+
+### 1st Level
+
+- Cure Wounds
+- Hunter's Mark
+- Enhanced Hunter's Mark
+
+### 2nd Level
+
+- Spike Growth
+- Pass Without Trace
+
 ## Catmint
 
 - Acts on your turn in combat

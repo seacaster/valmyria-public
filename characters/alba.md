@@ -13,6 +13,31 @@ urlcolor: blue
   - Spell save DC 15 (8 + WIS + proficiency)
   - Ritual casting
 
+## Spells (as of 3/13/21)
+
+### Cantrips
+
+- Guidance
+- Produce Flame
+- Thorn Whip
+
+### 1st Level
+
+- Healing Word
+- Snare
+- Goodberry
+- Thunderwave
+
+### 2nd Level
+
+- Flaming Sphere
+- Healing Spirit
+
+### 3rd Level
+
+- Dispel Magic
+- Conjure Animals
+
 ## Wild Shape
 
 - 2 per long rest

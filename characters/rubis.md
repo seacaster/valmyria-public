@@ -18,6 +18,35 @@ urlcolor: blue
 - Spiritual Focus: Add a d6 to the damage dealt or HP healed of any spell
 - Expertise (2 skills, TODO: fill in)
 
+## Spells (as of 3/13/21)
+
+### Cantrips
+
+- Minor Illusion
+- Vicious Mockery
+- Message
+- Guidance
+
+### 1st Level
+
+- Command
+- Charm Person
+- Thunderwave
+- Healing Word
+- Dissonant Whispers
+- Silent Image
+
+### 2nd Level
+
+- Misty Step
+- Invisibility
+- Crown of Madness
+
+### 3rd Level
+
+- Leomund's Tiny Hut
+- Fear
+
 ## Bardic Inspiration
 
 - 5 uses (CHA) per short/long rest
