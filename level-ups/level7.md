@@ -37,8 +37,8 @@ Everyone increases HP. Other than that:
 
 # Rubis
 
-- Additional spell known (10)
-- Replace known spell, if you want
+- Additional spell known (10): Dimension Door
+- Replace known spell, if you want: Cloud of Daggers, replacing Crown of Madness
 - 4th level spell slot (4-3-3-1)
   - Access to 4th level spells
 

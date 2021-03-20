@@ -47,6 +47,8 @@ urlcolor: blue
 - Leomund's Tiny Hut
 - Fear
 
+TODO: After long rest, drop Crown of Madness and add Cloud of Daggers and Dimension Door
+
 ## Bardic Inspiration
 
 - 5 uses (CHA) per short/long rest
