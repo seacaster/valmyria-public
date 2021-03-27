@@ -26,7 +26,7 @@ urlcolor: blue
   4.  Lavander weapon (Enhanced Weapon)
 - INT for attack and damage rolls with a magic weapon
 
-## Spells (as of 3/13/21):
+## Spells (as of 3/13/21, 6/8 prepared):
 
 ### Cantrips
 

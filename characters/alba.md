@@ -8,12 +8,12 @@ urlcolor: blue
 # Moon Druid Features
 
 - 3 cantrips
-- Spell slots: 4-3-3
-  - 10 prepared spells (WIS + druid level)
+- Spell slots: 4-3-3-1
+  - 11 prepared spells (WIS + druid level)
   - Spell save DC 15 (8 + WIS + proficiency)
   - Ritual casting
 
-## Spells (as of 3/13/21)
+## Spells (as of 3/13/21, 8/11 prepared)
 
 ### Cantrips
 

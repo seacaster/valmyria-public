@@ -8,17 +8,18 @@ urlcolor: blue
 # Beast Conclave Revised Ranger Features
 
 - Spell slots: 4-2
-  - 4 spells known
+  - 5 spells known
   - Spell save DC 14 (8 + WIS + PB)
 - Two-Weapon Fighting Style
   - Add ability modifier to damage of the second attack while two-weapon
     fighting
 
-## Spells (as of 3/13/21)
+## Spells (as of level 6, 4/5 known)
 
 ### 1st Level
 
 - Cure Wounds
+- Zephyr Strike
 - Hunter's Mark
 - Enhanced Hunter's Mark
 

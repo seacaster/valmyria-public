@@ -8,13 +8,13 @@ urlcolor: blue
 # Fiend Warlock Features
 
 - 3 cantrips
-- 2 spell slots (Lv. 3)
-  - 7 spells known
+- 2 spell slots (Lv. 4)
+  - 8 spells known
   - Spell save DC 14 (8 + CHA + PB)
 - Pact of the Tome
   - 3 additional cantrips from any class
 
-## Spells (as of 3/13/21):
+## Spells (as of level 7):
 
 ### Cantrips
 
@@ -26,15 +26,16 @@ urlcolor: blue
 - Thaumaturgy
 - Toll the Dead
 
-### Pact Magic (3rd Level)
+### Pact Magic (4th Level, 8/8 known)
 
 - Fireball
 - Counterspell (in Sasha's)
 - Major Image
 - Armor of Agathys
 - Hex
-- Invisibility
 - Misty Step
+- Banishment
+- Shadow of Moil
 
 TODO: After next long rest, update to 4th level slots, drop Invisibility, and
 add Banishment and Shadow of Moil

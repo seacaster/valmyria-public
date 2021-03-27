@@ -8,7 +8,7 @@ urlcolor: blue
 # College of Spirits Bard Features
 
 - 3 cantrips
-- Spell slots: 4-3-3
+- Spell slots: 4-3-3-1
   - 9 spells known
   - Spell save DC 16 (8 + CHA + PB)
   - Ritual casting
@@ -18,7 +18,7 @@ urlcolor: blue
 - Spiritual Focus: Add a d6 to the damage dealt or HP healed of any spell
 - Expertise (2 skills, TODO: fill in)
 
-## Spells (as of 3/13/21)
+## Spells (as of level 7, 10/10 known)
 
 ### Cantrips
 
@@ -40,14 +40,16 @@ urlcolor: blue
 
 - Misty Step
 - Invisibility
-- Crown of Madness
+- Cloud of Daggers
 
 ### 3rd Level
 
 - Leomund's Tiny Hut
 - Fear
 
-TODO: After long rest, drop Crown of Madness and add Cloud of Daggers and Dimension Door
+### 4th Level
+
+- Dimension Door
 
 ## Bardic Inspiration
 

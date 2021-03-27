@@ -7,14 +7,14 @@ urlcolor: blue
 
 # Vengeance Paladin Features
 
-- Spell slots: 4-2
+- Spell slots: 4-3
   - 5 prepared spells (CHA + floor(paladin level / 2))
   - Spell save DC 13 (8 + CHA + PB)
 - Blessed Warrior fighting style
   - Thaumaturgy, Word of Radiance
 - Divine Health: Immune to disease
 
-## Spells (as of 3/13/21)
+## Spells (as of 3/13/21, 4/5 prepared)
 
 ### Cantrips
 
@@ -89,6 +89,12 @@ Once per short or long rest. You have three options for your Channel Divinity:
 
 If you are conscious, you and all allies within 10 feet get a +2 bonus to all
 saves (equal to your CHA)
+
+## Relentless Avenger
+
+When you hit a creature with an opportunity attack,
+you can move up to half your speed immediately after the attack and as part of
+the same reaction. This movement doesn't provoke opportunity attacks.
 
 # Feats
 
