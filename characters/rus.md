@@ -26,19 +26,20 @@ urlcolor: blue
   4.  Lavander weapon (Enhanced Weapon)
 - INT for attack and damage rolls with a magic weapon
 
-## Spells (as of 3/13/21, 6/8 prepared):
+## Spells (as of 3/13/21, 8/8 prepared):
 
 ### Cantrips
 
-- Fire Bolt
+- Booming Blade
 - Mage Hand
 
 ### 1st Level
 
 - Catapult
 - Cure Wounds
+- Detect Magic
 - Identify
-- False Life
+- Faerie Fire
 - Heroism
 - Shield
 
@@ -46,6 +47,7 @@ urlcolor: blue
 
 - Aid
 - Heat Metal
+- Invisibility
 - Branding Smite
 - Warding Bond
 
