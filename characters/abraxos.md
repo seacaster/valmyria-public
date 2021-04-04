@@ -43,9 +43,11 @@ urlcolor: blue
 2. Mask of Many Faces (Disguise Self at will)
 3. Fiendish Vigor (False Life at will)
 4. Maddening Hex
-	- Bonus action
-	- Target is in vision range, within 30 feet, and cursed by Hex or a warlock feature
-	- Psychic damage (= CHA) to target and all creatures of your choice within 5 feet of it
+   - Bonus action
+   - Target is in vision range, within 30 feet, and cursed by Hex or a warlock
+     feature
+   - Psychic damage (= CHA) to target and all creatures of your choice within 5
+     feet of it
 
 ## Dark One's Own Luck
 
