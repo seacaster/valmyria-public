@@ -6,8 +6,8 @@ urlcolor: blue
 
 Everyone increases HP.
 Abraxos: 51 -> 60 (d8 + 2)
-Alba: 48 -> (d8 + 0)
-Fregley: 73 -> (d10 + 2 + 2)
+Alba: 48 -> 53 (d8 + 0)
+Fregley: 73 -> 85 (d10 + 2 + 2)
 Lavander: 59 -> 67 (d10 + 2)
 Catmint: 27 -> 31 (6d8 -> 7d8)
 Rubis: 47 -> 54 (d8 + 2)
