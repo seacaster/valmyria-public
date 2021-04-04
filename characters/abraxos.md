@@ -37,16 +37,15 @@ urlcolor: blue
 - Banishment
 - Shadow of Moil
 
-TODO: After next long rest, update to 4th level slots, drop Invisibility, and
-add Banishment and Shadow of Moil
-
 ## Eldritch Invocations
 
 1. Agonizing Blast (+CHA to EB)
 2. Mask of Many Faces (Disguise Self at will)
 3. Fiendish Vigor (False Life at will)
-
-TODO: After next long rest, add Maddening Hex
+4. Maddening Hex
+	- Bonus action
+	- Target is in vision range, within 30 feet, and cursed by Hex or a warlock feature
+	- Psychic damage (= CHA) to target and all creatures of your choice within 5 feet of it
 
 ## Dark One's Own Luck
 
