@@ -14,12 +14,12 @@ urlcolor: blue
   - Thaumaturgy, Word of Radiance
 - Divine Health: Immune to disease
 
-## Spells (as of 3/13/21, 4/5 prepared)
+## Spells (as of 4/4/21, 5/5 prepared)
 
 ### Cantrips
 
 - Thaumaturgy
-- Word of Radiance
+- Sacred Flame
 
 ### 1st Level
 
@@ -31,6 +31,7 @@ urlcolor: blue
 
 ### 2nd Level
 
+- Aid
 - Zone of Truth
 - Hold Person
 - Misty Step
