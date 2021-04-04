@@ -16,7 +16,7 @@ urlcolor: blue
   include proficiency
 - Guiding Whispers: You know Guidance with a range of 60 feet
 - Spiritual Focus: Add a d6 to the damage dealt or HP healed of any spell
-- Expertise (2 skills, TODO: fill in)
+- Expertise (2 skills: Deception, Perception)
 
 ## Spells (as of level 7, 10/10 known)
 
