@@ -40,7 +40,6 @@ urlcolor: blue
 - Detect Magic
 - Identify
 - Faerie Fire
-- Tasha's Caustic Brew
 - Heroism
 - Shield
 
@@ -48,6 +47,7 @@ urlcolor: blue
 
 - Aid
 - Heat Metal
+- Invisibility
 - Branding Smite
 - Warding Bond
 
