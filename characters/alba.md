@@ -13,7 +13,7 @@ urlcolor: blue
   - Spell save DC 15 (8 + WIS + proficiency)
   - Ritual casting
 
-## Spells (as of 3/13/21, 8/11 prepared)
+## Spells (as of 4/4/21, 11/11 prepared)
 
 ### Cantrips
 
@@ -35,8 +35,14 @@ urlcolor: blue
 
 ### 3rd Level
 
+- Daylight
 - Dispel Magic
 - Conjure Animals
+
+### 4th Level
+
+- Divination
+- Fire Shield
 
 ## Wild Shape
 
