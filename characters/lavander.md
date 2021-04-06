@@ -14,7 +14,7 @@ urlcolor: blue
   - Add ability modifier to damage of the second attack while two-weapon
     fighting
 
-## Spells (as of level 6, 4/5 known)
+## Spells (as of level 6, 5/5 known)
 
 ### 1st Level
 
@@ -25,6 +25,7 @@ urlcolor: blue
 
 ### 2nd Level
 
+- Find Traps
 - Spike Growth
 - Pass Without Trace
 
