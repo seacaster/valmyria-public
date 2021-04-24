@@ -39,9 +39,10 @@ jobs:
         uses: docker://pandoc/latex:2.13
         with:
           entrypoint: /bin/sh
-          args: >-
-            -c "find . -iname '*.md' ! -name 'README.md' -type f
-            -exec sh -c 'pandoc ${0} -o pdfs/${0%.md}.pdf' {} \;
+          args: |-
+            for f in `git diff --name-only ${{ GITHUB_SHA }}; do
+              pandoc $f -o pdfs/$f.pdf
+            done
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.10.0
         with:
