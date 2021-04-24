@@ -17,8 +17,10 @@ jobs:
       - name: Prettify
         uses: creyD/prettier_action@v3.3
         with:
-          prettier_options: --write *.md
+          prettier_options: --prose-wrap always --write *.md
           commit_message: Prettified .md files via action
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         # TODO (soft): do I need something for a GitHub token here?
 #  pandoc:
 #    name: Compile Markdown files to PDF
