@@ -21,13 +21,23 @@ jobs:
           commit_message: Prettified .md files via action
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        # TODO (soft): do I need something for a GitHub token here?
-#  pandoc:
-#    name: Compile Markdown files to PDF
-#    needs: prettify
-#    runs-on: ubuntu-latest
-#    steps:
-#      - name: Checkout code
-#        uses: actions/checkout@v2.3.4
-#      - name: Pandoc PDF compilation
-#        uses: docker://pandoc/latex:2.13
+  generate_pdfs:
+    name: Compile Markdown files to PDF
+    needs: prettify
+    runs-on: ubuntu-latest
+    if: ${{ github.ref == 'refs/heads/main' }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2.3.4
+      - name: Create PDF folder and subfolders if needed
+        run: |
+          for dir in */; do
+            mkdir -p pdfs/$dir
+          done
+      - name: Pandoc PDF compilation
+        uses: docker://pandoc/latex:2.13
+        with:
+          entrypoint: /bin/sh
+          args: >-
+            -c "find . -iname '*.md' ! -name 'README.md' -type f
+            -exec sh -c 'pandoc ${0} -o pdfs/${0%.md}.pdf' {} \;
