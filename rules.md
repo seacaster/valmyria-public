@@ -7,12 +7,12 @@ geometry: margin=0.5in
 urlcolor: blue
 ---
 
-[//]: # (To convert this to pdf, run:
+[//]: # "To convert this to pdf, run:
 cd C:\\Users\aqw20\DnD\Writeups
 pandoc -o rules.pdf rules.md
 To change wrapping, use the following Prettier commands.
 Hard wrap at 80 characters: npx prettier rules.md --prose-wrap always --write
-No wrap: npx prettier rules.md --prose-wrap never --write)
+No wrap: npx prettier rules.md --prose-wrap never --write"
 
 All published content is allowed, including optional subclasses/features/options
 from Tasha’s.
@@ -73,6 +73,7 @@ from Tasha’s.
 ## Combat
 
 ### Flanking
+
 - Prerequisites:
   - Two allied creatures, both directly adjacent to a hostile creature (but on opposite sides).
   - The allied creatures cannot be unconscious or incapacitated.
@@ -126,6 +127,7 @@ from Tasha’s.
   - Exhaustion on hitting 0 HP seems like a bad call
 
 # TODOs
+
 - Consider if sorcerer changes are overtuned given availability of feats
   (ease of taking Metamagic Adept)
 - Consider boosted healing rules (spells/potions heal max or double dice if
