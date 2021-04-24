@@ -19,8 +19,6 @@ No wrap: npx prettier rules.md --prose-wrap never --write"
 All published content is allowed, including optional subclasses/features/options
 from Tasha’s.
 
-Test change 4
-
 # Character Mechanics
 
 ## Character Creation
