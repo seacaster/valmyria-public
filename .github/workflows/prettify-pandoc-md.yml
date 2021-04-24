@@ -40,7 +40,7 @@ jobs:
         with:
           entrypoint: /bin/sh
           args: |-
-            for f in `git diff --name-only ${{ GITHUB_SHA }}; do
+            for f in `git diff --name-only ${{ github.sha }}; do
               pandoc $f -o pdfs/$f.pdf
             done
       - name: Commit changes
