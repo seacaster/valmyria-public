@@ -39,10 +39,9 @@ jobs:
         uses: docker://pandoc/latex:2.13
         with:
           entrypoint: /bin/sh
-          args: |-
-            for f in `git diff --name-only ${{ github.sha }}; do
-              pandoc $f -o pdfs/$f.pdf
-            done
+          args: >-
+            -c "for f in `git diff --name-only ${{ github.sha }}; do
+              pandoc $f -o pdfs/$f.pdf; done"
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.10.0
         with:
