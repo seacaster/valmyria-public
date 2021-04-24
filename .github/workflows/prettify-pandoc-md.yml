@@ -1,0 +1,30 @@
+name: Prettify Markdown files and generate PDFs with pandoc
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**/*.md"
+
+jobs:
+  prettify:
+    name: Prettify Markdown files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2.3.4
+      - name: Prettify
+        uses: creyD/prettier_action@v3.3
+        with:
+          prettier_options: --write "**/*.md"
+        # TODO (soft): do I need something for a GitHub token here?
+#  pandoc:
+#    name: Compile Markdown files to PDF
+#    needs: prettify
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout code
+#        uses: actions/checkout@v2.3.4
+#      - name: Pandoc PDF compilation
+#        uses: docker://pandoc/latex:2.13
