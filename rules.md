@@ -7,7 +7,9 @@ geometry: margin=0.5in
 urlcolor: blue
 ---
 
-[//]: # "To convert this to pdf, run:
+[//]:
+  #
+  "To convert this to pdf, run:
 cd C:\\Users\aqw20\DnD\Writeups
 pandoc -o rules.pdf rules.md
 To change wrapping, use the following Prettier commands.
@@ -22,8 +24,8 @@ from Tasha’s.
 ## Character Creation
 
 - Standard point buy for stats (27 points, min 8, max 15)
-- Any race (besides Variant Human and Custom Lineage) can take a feat at character creation in exchange for their racial
-  ASI(s) becoming a single +1
+- Any race (besides Variant Human and Custom Lineage) can take a feat at
+  character creation in exchange for their racial ASI(s) becoming a single +1
 - Players can assign racial ASIs to any stat, but cannot put multiple racial
   ASIs on the same stat (a la Tasha's)
 
@@ -75,7 +77,8 @@ from Tasha’s.
 ### Flanking
 
 - Prerequisites:
-  - Two allied creatures, both directly adjacent to a hostile creature (but on opposite sides).
+  - Two allied creatures, both directly adjacent to a hostile creature (but on
+    opposite sides).
   - The allied creatures cannot be unconscious or incapacitated.
 - Result: The allied creatures are **_flanking_** the hostile creature
   - While flanking, melee attacks get a +2 to hit
@@ -128,7 +131,7 @@ from Tasha’s.
 
 # TODOs
 
-- Consider if sorcerer changes are overtuned given availability of feats
-  (ease of taking Metamagic Adept)
+- Consider if sorcerer changes are overtuned given availability of feats (ease
+  of taking Metamagic Adept)
 - Consider boosted healing rules (spells/potions heal max or double dice if
   healing creature above 0 HP)
