@@ -41,3 +41,8 @@ jobs:
           args: >-
             -c "find . -iname '*.md' ! -name 'README.md' -type f
             -exec sh -c 'pandoc ${0} -o pdfs/${0%.md}.pdf' {} \;
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4.10.0
+        with:
+          commit_message: Add new PDFs via action
+          file_pattern: pdfs
