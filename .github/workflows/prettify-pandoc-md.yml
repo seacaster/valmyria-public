@@ -15,8 +15,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2.3.4
-      - name: Display all files
-        run: find .
       - name: Prettify
         uses: creyD/prettier_action@v3.3
         with:
@@ -28,8 +26,7 @@ jobs:
     name: Compile Markdown files to PDF
     needs: prettify
     runs-on: ubuntu-latest
-    # todo: remove the forced stop for this step
-    if: ${{ github.ref == 'refs/heads/main' && false }}
+    if: ${{ github.ref == 'refs/heads/main' }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v2.3.4
