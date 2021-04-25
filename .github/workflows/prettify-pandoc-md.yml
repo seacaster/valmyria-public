@@ -39,12 +39,14 @@ jobs:
         run: >-
           export modified=`git diff ${{ github.sha }} --name-only
           -- '*.md' ':(exclude)README.md'`
+      - name: File changelist sanity check
+        run: echo $modified
       - name: Pandoc PDF compilation
         uses: docker://pandoc/latex:2.13
         with:
           entrypoint: /bin/sh
+          modified: $modified
           args: >-
-            -e $modified
             -c "for file in $modified; do
             pandoc $file -o pdfs/${file%.md}.pdf;
             done"
