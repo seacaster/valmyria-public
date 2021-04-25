@@ -48,8 +48,6 @@ jobs:
           modified: $modified
           args: >-
             -c "for file in ${{ env.modified }}; do
-            echo "Compiling PDF";
-            echo $file;
             pandoc $file -o pdfs/${file%.md}.pdf;
             done"
       - name: Commit changes
