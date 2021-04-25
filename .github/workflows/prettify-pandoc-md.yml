@@ -44,7 +44,7 @@ jobs:
         with:
           entrypoint: /bin/sh
           args: >-
-            -e modified
+            -e $modified
             -c "for file in $modified; do
             pandoc $file -o pdfs/${file%.md}.pdf;
             done"
