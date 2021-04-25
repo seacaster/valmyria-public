@@ -37,8 +37,8 @@ jobs:
           done
       - name: Store modified non-README .md files to pass to pandoc
         run: >-
-          export modified=`git diff ${{ github.sha }} --name-only
-          -- '*.md' ':(exclude)README.md'`
+          export modified=`git diff ${{ github.sha }}~ ${{ github.sha }}
+          --name-only -- '*.md' ':(exclude)README.md'`
       - name: File changelist sanity check
         run: echo $modified
       - name: Pandoc PDF compilation
