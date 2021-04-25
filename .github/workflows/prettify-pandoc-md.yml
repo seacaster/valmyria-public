@@ -40,8 +40,7 @@ jobs:
       - name: Store modified non-README .md files to pass to pandoc
         run: |
           echo 'modified<<EOF' >> $GITHUB_ENV
-          git diff ${{ github.sha }}~ ${{ github.sha }} --name-only \
-          -- '*.md' ':(exclude)README.md'`" >> $GITHUB_ENV
+          git diff ${{ github.sha }}~ ${{ github.sha }} --name-only -- '*.md' ':(exclude)README.md' >> $GITHUB_ENV
           echo 'EOF' >> $GITHUB_ENV
       - name: Pandoc PDF compilation
         uses: docker://pandoc/latex:2.13
