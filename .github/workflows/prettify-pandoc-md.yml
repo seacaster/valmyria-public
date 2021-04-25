@@ -39,17 +39,17 @@ jobs:
           done
       - name: Store modified non-README .md files to pass to pandoc
         run: >-
-          export modified=`git diff ${{ github.sha }}~ ${{ github.sha }}
-          --name-only -- '*.md' ':(exclude)README.md'`
-      - name: File changelist sanity check
-        run: echo $modified
+          echo "modified=`git diff ${{ github.sha }}~ ${{ github.sha }}
+          --name-only -- '*.md' ':(exclude)README.md'`" >> $GITHUB_ENV
       - name: Pandoc PDF compilation
         uses: docker://pandoc/latex:2.13
         with:
           entrypoint: /bin/sh
           modified: $modified
           args: >-
-            -c "for file in $modified; do
+            -c "for file in ${{ env.modified }}; do
+            echo "Compiling PDF";
+            echo $file;
             pandoc $file -o pdfs/${file%.md}.pdf;
             done"
       - name: Commit changes
