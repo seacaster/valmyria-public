@@ -30,6 +30,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2.3.4
+        with:
+          fetch-depth: 2
       - name: Create PDF folder and subfolders if needed
         run: |
           for dir in */; do
