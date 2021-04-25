@@ -52,8 +52,12 @@ jobs:
             -c "modified='${{ env.modified }}'; for file in $modified; do
             pandoc $file -o pdfs/${file%.md}.pdf;
             done"
+      - name: Store short SHA for commit message
+        run: >-
+          echo "short_sha=`echo '${{ github.sha }}' |
+          cut -c1-8`" >> $GITHUB_ENV
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.10.0
         with:
-          commit_message: Add new PDFs via action
+          commit_message: Add/update PDFs based on ${{ env.short_sha }}
           file_pattern: pdfs
