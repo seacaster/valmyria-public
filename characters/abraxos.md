@@ -5,8 +5,6 @@ geometry: margin=1in
 urlcolor: blue
 ---
 
-test character change
-
 # Fiend Warlock Features
 
 - 3 cantrips
