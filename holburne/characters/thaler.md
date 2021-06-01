@@ -42,6 +42,15 @@ This is current as of character level 1.
 - Arms of Hadar (psionic)
 - Dissonant Whispers (psionic)
 
+## Telepathic Speech
+
+- Bonus action
+- Targets creature you can see within 30 feet
+- Can speak telepathically with each other while you are within 3 (CHA) miles
+  - Must be in shared language
+- Lasts for 1 (sorcerer level) minute
+- Ends early if incapacitated or if this is used again
+
 # Feats
 
 None
