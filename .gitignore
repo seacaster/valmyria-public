@@ -1,5 +1,6 @@
 private
 **/*.ps1
+**/*.sh
 .idea
 poetry.lock
 pyproject.toml
