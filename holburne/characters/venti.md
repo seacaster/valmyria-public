@@ -7,31 +7,35 @@ urlcolor: blue
 
 # Overview
 
-- TODO HP max
-- Stats: TODO
-- Skills: TODO
+- 9 HP max
+- Stats: 10/14/12/14/12/16
+- Skills: Acrobatics, History, Investigation, Animal Handling, Insight, Perception, Performance
 
 # Creation Bard Features
 
-- 2 cantrips (TODO)
+- 2 cantrips
 - 2 Level 1 spell slots
   - 4 known spells
-  - Spell save DC TODO (8 + CHA + proficiency)
+  - Spell save DC 13 (8 + CHA + proficiency)
   - Ritual casting
 
-## Spells (as of TODO, 0/4 known)
+## Spells (as of level 1, 4/4 known)
 
 ### Cantrips
 
-- 2x TODO
+- Dancing Lights
+- Mage Hand
 
 ### 1st Level
 
-- 4x TODO
+- Comprehend Languages
+- Disguise Self
+- Identify
+- Speak With Animals
 
 ## Bardic Inspiration
 
-- TODO uses (CHA) per long rest
+- 3 (CHA) uses per long rest
 - **Bonus action** to give a creature within 60 feet (not you) bardic
   inspiration
 - Creature adds d6 to one ability check, attack roll, or saving throw
@@ -53,30 +57,33 @@ None
 
 ## Character Creation
 
-- Stats: TODO
+- Stats: 10-13-12-13-12-14
 - Race: Half-Elf
-  - Racial stat bonuses: 3x TODO
-  - Skill proficiencies: 2x TODO
+  - Racial stat bonuses: +2 CHA, +1 DEX, +1 INT
+  - Acrobatics, Animal Handling proficiencies
   - Darkvision (60 ft.)
   - Fey Ancestry
-  - Languages: TODO
-- Background: TODO
+  - Languages: Common, Elvish, TODO
+- Background: Investigator
+  - Insight, Perception proficiencies
+  - Disguise Kit, Thieves' Tools proficiencies
+  - Official Inquiry
 
 ## Levels
 
 1. Bard 1
-  - TODO HP (max d8 + CON = 8 + TODO)
+  - 9 HP (max d8 + CON = 8 + 1)
   - Proficiencies
-    - Skills (3x TODO)
+    - Skills (History, Investigation, Performance)
     - DEX, CHA saves
     - Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
-  - Equipment (TODO)
-    - Rapier/longsword/any simple weapon
-    - Diplomat's or entertainer's pack
-    - Any musical instrument
+  - Equipment
+    - Rapier
+    - Entertainer's pack
+    - Lute
     - Leather armor
     - Dagger
-  - Spellcasting (TODO: choose spells)
-    - 2 bard cantrips (TODO)
-    - 4 bard spells (TODO)
+  - Spellcasting
+    - 2 bard cantrips (Dancing Lights, Mage Hand)
+    - 4 bard spells (Comprehend Languages, Disguise Self, Identify, Speak With Animals)
 
