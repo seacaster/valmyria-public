@@ -9,6 +9,7 @@ urlcolor: blue
 
 - 8 HP max
 - Stats: 8-14-14-12-12-17
+- Skills: Arcana, Religion, Insight, Perception, Deception, Persuasion
 
 # Aberrant Mind Sorcerer Features
 
@@ -69,14 +70,15 @@ None
   - Deception, Persuasion proficiencies
   - Darkvision (60 ft.)
   - Fey Ancestry
-- Background: Sage (modified proficiencies)
+  - Common, Elvish, Dwarvish
+- Background: Sage
   - Arcana, Religion proficiencies
   - Alchemist's supplies proficiency
   - Deep Speech
 
 ## Levels
 
-1. Aberrant Mind 1
+1. Aberrant Mind Sorcerer 1
   - 8 HP (max d6 + CON = 6 + 2)
   - Proficiencies
     - Insight, Persuasion
@@ -87,3 +89,9 @@ None
     - Daggers (2)
     - Arcane focus (staff)
     - Explorer's pack
+  - Spellcasting
+    - 4 sorcerer cantrips (Fire Bolt, Mage Hand, Minor Illusion, Prestidigitation)
+    - 2 sorcerer spells (Mage Armor, Sleep)
+    - 1 psionic cantrip (Mind Sliver)
+    - 2 psionic spells (Arms of Hadar, Dissonant Whispers)
+  - Telepathic speech
