@@ -29,6 +29,26 @@ urlcolor: blue
 - Replenish HP, or use 5 points to cure one disease or neutralize one poison.
 - Can cure multiple diseases/poisons with one action - each costs 5 points
 
+## Fighting Style
+
+TODO
+
+## Spellcasting
+
+- 2x 1st-level slots
+- As of 6/4/21, 0/3 (CHA + floor[level / 2] = 2 + 1) prepared
+
+### Level 1
+
+- 3x TODO
+
+## Divine Smite
+
+- Requires: Hitting a creature with a melee weapon attack
+- Expend spell slot to deal extra radiant damage to target
+- Adds 2d8 for 1st-level slot; adds additional 1d8 for each additional level (max 5d8 at 4th+ level)
+- Target takes additional 1d8 if fiend or undead
+
 # Feats
 
 None
@@ -68,3 +88,9 @@ None
     - Chain mail, holy symbol
   - Lay On Hands (5)
   - Divine Sense (3)
+
+2. Paladin 2
+  - 11 -> 22 HP (d10 + CON = 10 + 1)
+  - Fighting Style (TODO)
+  - Spellcasting (3 prepared, TODO)
+  - Divine Smite

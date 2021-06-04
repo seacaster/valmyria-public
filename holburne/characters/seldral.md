@@ -7,8 +7,8 @@ urlcolor: blue
 
 # Overview
 
-- TODO HP max
-- Stats: TODO
+- 20 HP max
+- Stats: 12-17-14-12-10-9
 - Skills: Sleight of Hand, Stealth, Investigation, Animal Handling, **Perception**, Deception, Persuasion
 
 # Soulknife Rogue Features
@@ -34,6 +34,10 @@ urlcolor: blue
   - Takes 4x longer than talking normally
 - You understand secret signs/symbols used to convey short messages
 
+## Cunning Action
+
+- Can use **bonus action** to take Dash, Disengage, or Hide action
+
 # Feats
 
 None
@@ -53,7 +57,7 @@ None
   - Darkvision (60 ft.)
   - Fey Ancestry
   - Trance
-  - Languages: TODO
+  - Languages: Common, Elvish
   - Fey Step: Misty Step once per short/long rest
     - Gains additional effect at 3rd level
 - Background: TODO
@@ -62,19 +66,23 @@ None
 ## Levels
 
 1. Rogue 1
-  - TODO HP (max d8 + CON = 8 + TODO)
+  - 10 HP (max d8 + CON = 8 + 2)
   - Proficiencies
     - Skills (Deception, Investigation, Persuasion, Sleight of Hand)
     - DEX, INT saves
     - Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
     - Thieves' tools
   - Equipment (TODO)
-    - Rapier or shortsword
-    - Shortbow or shortsword
-    - Burglar's, dungeoneer's, or explorer's pack
+    - Shortsword
+    - Shortbow
+    - Burglar's pack
     - Leather armor
     - 2x Dagger
     - Thieves' tools
   - Expertise (Perception, TODO)
   - Sneak Attack (1d6)
   - Thieves' Cant
+
+2. Rogue 2
+  - 10 -> 20 HP (d8 + CON = 8 + 2)
+  - Cunning Action

@@ -7,7 +7,7 @@ urlcolor: blue
 
 # Overview
 
-- 8 HP max
+- 14 HP max
 - Stats: 8-14-14-12-12-17
 - Skills: Arcana, Religion, Insight, Perception, Deception, Persuasion
 
@@ -40,6 +40,7 @@ This is current as of character level 1.
 
 - Mage Armor
 - Sleep
+- TODO
 - Arms of Hadar (psionic)
 - Dissonant Whispers (psionic)
 
@@ -51,6 +52,15 @@ This is current as of character level 1.
   - Must be in shared language
 - Lasts for 1 (sorcerer level) minute
 - Ends early if incapacitated or if this is used again
+
+## Font of Magic
+
+- 2 SP, recovers on long rest
+- Flexible Casting
+  - **Bonus Action** to use
+  - Can either:
+    - Convert spell slot to SP (# equal to slot level)
+    - Convert SP to spell slot of 5th level or lower
 
 # Feats
 
@@ -95,3 +105,9 @@ None
     - 1 psionic cantrip (Mind Sliver)
     - 2 psionic spells (Arms of Hadar, Dissonant Whispers)
   - Telepathic speech
+
+2. Aberrant Mind Sorcerer 2
+  - 8 -> 14 HP (d6 + CON = 4 + 2)
+  - Additional sorcerer spell known (TODO)
+  - 2 SP
+  - Font of Magic

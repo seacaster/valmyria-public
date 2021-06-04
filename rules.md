@@ -45,10 +45,10 @@ from Tasha’s.
 ### Sorcerer
 
 - Additional metamagic options
-  - 4 metamagic options at 3rd level
-  - Another two at 10th level (up to 6)
-  - Another two at 17th level
-- Additional sorcery points equal to proficiency bonus
+  - 3 metamagic options at 3rd level
+  - 4th option at 6th level
+  - 5th and 6th at 10th and 17th level (as normal)
+- 2 additional sorcery points
 - All subclasses get origin spells (specific spells TBD)
 
 ### Warlock
