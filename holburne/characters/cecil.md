@@ -7,7 +7,7 @@ urlcolor: blue
 
 # Overview
 
-- 11 HP max
+- 22 HP max
 - Stats: 16-8-12-15-10-14
 - Proficiencies: Athletics, Arcana, Medicine, Survival
 - Speed: 40 feet
@@ -31,16 +31,18 @@ urlcolor: blue
 
 ## Fighting Style
 
-TODO
+Defense (+1 AC)
 
 ## Spellcasting
 
 - 2x 1st-level slots
-- As of 6/4/21, 0/3 (CHA + floor[level / 2] = 2 + 1) prepared
+- As of 6/10/21, 3/3 (CHA + floor[level / 2] = 2 + 1) prepared
 
 ### Level 1
 
-- 3x TODO
+- Bless
+- Cure Wounds
+- Detect Evil and Good
 
 ## Divine Smite
 
