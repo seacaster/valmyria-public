@@ -91,6 +91,6 @@ None
 
 2. Paladin 2
   - 11 -> 22 HP (d10 + CON = 10 + 1)
-  - Fighting Style (TODO)
-  - Spellcasting (3 prepared, TODO)
+  - Fighting Style: Defense
+  - Spellcasting: Bless, Cure Wounds, Detect Evil and Good
   - Divine Smite
