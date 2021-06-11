@@ -49,30 +49,36 @@ As of 6/3/21, 4/4 prepared
 ## Channel Divinity
 
 - 1 use per short/long rest
-- Three options:
-  - Turn Undead
-    - **Action**
-    - Undead within 30 feet make WIS save
-    - Fail: turned for 1 minute or until taking any damage
-      - Must spend turns trying to get as far away as possible
-        - Dash by default if possible
-        - If immobile, must try to become mobile
-        - If nowhere to move, take Dodge action
-      - Can't willingly move within 30 feet of you
-      - Can't take reactions
-  - Harness Divine Power
-    - **Bonus action**
-    - Regain expended spell slot
-    - Max spell slot level: 1 (ceiling[PB / 2])
-    - Usable once per long rest (increases at 6th and 18th level)
-  - Radiance of the Dawn
-    - **Action**
-    - 30 foot radius
-    - Dispels magical darkness
-    - Hostile creatures make CON save
-      - Fail: 2d10 + 2 (2d10 + cleric level) damage
-      - Success: halved damage
-      - Doesn't affect creatures behind total cover
+- Three options
+
+### Turn Undead
+
+- **Action**
+- Undead within 30 feet make WIS save
+- Fail: turned for 1 minute or until taking any damage
+  - Must spend turns trying to get as far away as possible
+    - Dash by default if possible
+    - If immobile, must try to become mobile
+    - If nowhere to move, take Dodge action
+  - Can't willingly move within 30 feet of you
+  - Can't take reactions
+
+### Harness Divine Power
+
+- **Bonus action**
+- Regain expended spell slot
+- Max spell slot level: 1 (ceiling[PB / 2])
+- Usable once per long rest (increases at 6th and 18th level)
+
+### Radiance of the Dawn
+
+- **Action**
+- 30 foot radius
+- Dispels magical darkness
+- Hostile creatures make CON save
+  - Fail: 2d10 + 2 (2d10 + cleric level) damage
+  - Success: halved damage
+  - Doesn't affect creatures behind total cover
 
 # Feats
 
