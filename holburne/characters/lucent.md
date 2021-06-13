@@ -28,7 +28,7 @@ As of 6/3/21, 4/4 prepared
 - Sacred Flame
 - Toll the Dead
 - Word of Radiance
-- *Light*
+- _Light_
 
 ### 1st Level
 
@@ -36,14 +36,14 @@ As of 6/3/21, 4/4 prepared
 - Cure Wounds
 - Detect Magic
 - Guiding Bolt
-- *Burning Hands*
-- *Faerie Fire*
+- _Burning Hands_
+- _Faerie Fire_
 
 ## Warding Flare
 
 - 2 (WIS) uses, recharges on long rest
 - Trigger: attacked by creature within 30 feet that you can see
-- Uses *reaction* to impose disadvantage on attack roll
+- Uses _reaction_ to impose disadvantage on attack roll
 - Doesn't affect blinded enemies
 
 ## Channel Divinity
@@ -94,39 +94,45 @@ None
 
 - Stats: Point buy 13-11-15-10-13-11
 - Race: Human
-- Background: Lucent Luminescence is an Acolyte who devotedly serves the God of Light.  Lucent idolizes a particular hero of their faith, a martyr named John Dark who gave his life for the light.  Lucent does not know the truth of John's death.  He was burned at the stake by his church.  Lucent was given an empty reliquary that once housed the burning heart of John Dark, and Lucent would die to recover this ancient relic of their faith.  
+- Background: Lucent Luminescence is an Acolyte who devotedly serves the God of
+  Light. Lucent idolizes a particular hero of their faith, a martyr named John
+  Dark who gave his life for the light. Lucent does not know the truth of John's
+  death. He was burned at the stake by his church. Lucent was given an empty
+  reliquary that once housed the burning heart of John Dark, and Lucent would
+  die to recover this ancient relic of their faith.
   - Investigation, Religion proficiencies?
 
 ## Levels
 
 1. Light Cleric 1
-  - 11 HP (max d8 + CON = 8 + 3)
-  - Proficiencies
-    - Skills (Insight, Persuasion?)
-    - WIS, CHA saves
-    - Light/medium armor, shields, simple weapons
-  - Equipment
-    - Mace
-    - Scale mail
-    - Light crossbow
-    - Priest's pack
-    - Shield and holy symbol
-  - Spellcasting
-    - 3 cleric cantrips (Sacred Flame, Toll the Dead, Word of Radiance)
-    - 3 (WIS + cleric level) cleric spells (Command, Cure Wounds, Guiding Bolt)
-    - 1 light domain cantrip (Light)
-    - 2 domain spells (Burning Hands, Faerie Fire)
-  - Warding Flare (Light Domain)
-    - 2 (WIS) uses, recharges on long rest
-    - Trigger: attacked by creature within 30 feet that you can see
-    - Uses *reaction* to impose disadvantage on attack roll
-    - Doesn't affect blinded enemies
+
+- 11 HP (max d8 + CON = 8 + 3)
+- Proficiencies
+  - Skills (Insight, Persuasion?)
+  - WIS, CHA saves
+  - Light/medium armor, shields, simple weapons
+- Equipment
+  - Mace
+  - Scale mail
+  - Light crossbow
+  - Priest's pack
+  - Shield and holy symbol
+- Spellcasting
+  - 3 cleric cantrips (Sacred Flame, Toll the Dead, Word of Radiance)
+  - 3 (WIS + cleric level) cleric spells (Command, Cure Wounds, Guiding Bolt)
+  - 1 light domain cantrip (Light)
+  - 2 domain spells (Burning Hands, Faerie Fire)
+- Warding Flare (Light Domain)
+  - 2 (WIS) uses, recharges on long rest
+  - Trigger: attacked by creature within 30 feet that you can see
+  - Uses _reaction_ to impose disadvantage on attack roll
+  - Doesn't affect blinded enemies
 
 2. Light Cleric 2
-  - 11 -> 22 HP (d8 + CON = 8 + 3)
-  - Channel Divinity (once per rest)
-    - Turn Undead
-    - Harness Divine Power
-    - Radiance of the Dawn
-  - Up to 4 spells prepared (new: Detect Magic)
 
+- 11 -> 22 HP (d8 + CON = 8 + 3)
+- Channel Divinity (once per rest)
+  - Turn Undead
+  - Harness Divine Power
+  - Radiance of the Dawn
+- Up to 4 spells prepared (new: Detect Magic)

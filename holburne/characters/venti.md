@@ -9,7 +9,8 @@ urlcolor: blue
 
 - 9 HP max
 - Stats: 10/14/12/14/12/16
-- Skills: Acrobatics, History, Investigation, Animal Handling, Insight, Perception, Performance
+- Skills: Acrobatics, History, Investigation, Animal Handling, Insight,
+  Perception, Performance
 
 # Creation Bard Features
 
@@ -72,18 +73,20 @@ None
 ## Levels
 
 1. Bard 1
-  - 9 HP (max d8 + CON = 8 + 1)
-  - Proficiencies
-    - Skills (History, Investigation, Performance)
-    - DEX, CHA saves
-    - Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
-  - Equipment
-    - Rapier
-    - Entertainer's pack
-    - Lute
-    - Leather armor
-    - Dagger
-  - Spellcasting
-    - 2 bard cantrips (Dancing Lights, Mage Hand)
-    - 4 bard spells (Comprehend Languages, Disguise Self, Identify, Speak With Animals)
 
+- 9 HP (max d8 + CON = 8 + 1)
+- Proficiencies
+  - Skills (History, Investigation, Performance)
+  - DEX, CHA saves
+  - Light armor, simple weapons, hand crossbows, longswords, rapiers,
+    shortswords
+- Equipment
+  - Rapier
+  - Entertainer's pack
+  - Lute
+  - Leather armor
+  - Dagger
+- Spellcasting
+  - 2 bard cantrips (Dancing Lights, Mage Hand)
+  - 4 bard spells (Comprehend Languages, Disguise Self, Identify, Speak With
+    Animals)

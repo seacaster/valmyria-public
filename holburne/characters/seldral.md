@@ -9,7 +9,8 @@ urlcolor: blue
 
 - 20 HP max
 - Stats: 12-17-14-12-10-9
-- Skills: Sleight of Hand, Stealth, Investigation, Animal Handling, **Perception**, Deception, Persuasion
+- Skills: Sleight of Hand, Stealth, Investigation, Animal Handling,
+  **Perception**, Deception, Persuasion
 
 # Soulknife Rogue Features
 
@@ -24,7 +25,8 @@ urlcolor: blue
   - Attack with finesse or ranged weapon
   - Either:
     - Advantage on attack roll
-    - No disadvantage on attack, and non-incapacitated enemy of the target is within 5 feet of target
+    - No disadvantage on attack, and non-incapacitated enemy of the target is
+      within 5 feet of target
 - 1d6 extra damage
 
 ## Thieves' Cant
@@ -66,23 +68,26 @@ None
 ## Levels
 
 1. Rogue 1
-  - 10 HP (max d8 + CON = 8 + 2)
-  - Proficiencies
-    - Skills (Deception, Investigation, Persuasion, Sleight of Hand)
-    - DEX, INT saves
-    - Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
-    - Thieves' tools
-  - Equipment (TODO)
-    - Shortsword
-    - Shortbow
-    - Burglar's pack
-    - Leather armor
-    - 2x Dagger
-    - Thieves' tools
-  - Expertise (Perception, TODO)
-  - Sneak Attack (1d6)
-  - Thieves' Cant
+
+- 10 HP (max d8 + CON = 8 + 2)
+- Proficiencies
+  - Skills (Deception, Investigation, Persuasion, Sleight of Hand)
+  - DEX, INT saves
+  - Light armor, simple weapons, hand crossbows, longswords, rapiers,
+    shortswords
+  - Thieves' tools
+- Equipment (TODO)
+  - Shortsword
+  - Shortbow
+  - Burglar's pack
+  - Leather armor
+  - 2x Dagger
+  - Thieves' tools
+- Expertise (Perception, TODO)
+- Sneak Attack (1d6)
+- Thieves' Cant
 
 2. Rogue 2
-  - 10 -> 20 HP (d8 + CON = 8 + 2)
-  - Cunning Action
+
+- 10 -> 20 HP (d8 + CON = 8 + 2)
+- Cunning Action

@@ -48,7 +48,8 @@ Defense (+1 AC)
 
 - Requires: Hitting a creature with a melee weapon attack
 - Expend spell slot to deal extra radiant damage to target
-- Adds 2d8 for 1st-level slot; adds additional 1d8 for each additional level (max 5d8 at 4th+ level)
+- Adds 2d8 for 1st-level slot; adds additional 1d8 for each additional level
+  (max 5d8 at 4th+ level)
 - Target takes additional 1d8 if fiend or undead
 
 # Feats
@@ -78,21 +79,23 @@ None
 ## Levels
 
 1. Paladin 1
-  - 11 HP (max d10 + CON = 10 + 1)
-  - Proficiencies
-    - Athletics, Medicine
-    - WIS, CHA saves
-    - All weapons/armor
-  - Equipment
-    - Greatsword + shield
-    - 5 javelins
-    - Priest's pack
-    - Chain mail, holy symbol
-  - Lay On Hands (5)
-  - Divine Sense (3)
+
+- 11 HP (max d10 + CON = 10 + 1)
+- Proficiencies
+  - Athletics, Medicine
+  - WIS, CHA saves
+  - All weapons/armor
+- Equipment
+  - Greatsword + shield
+  - 5 javelins
+  - Priest's pack
+  - Chain mail, holy symbol
+- Lay On Hands (5)
+- Divine Sense (3)
 
 2. Paladin 2
-  - 11 -> 22 HP (d10 + CON = 10 + 1)
-  - Fighting Style: Defense
-  - Spellcasting: Bless, Cure Wounds, Detect Evil and Good
-  - Divine Smite
+
+- 11 -> 22 HP (d10 + CON = 10 + 1)
+- Fighting Style: Defense
+- Spellcasting: Bless, Cure Wounds, Detect Evil and Good
+- Divine Smite

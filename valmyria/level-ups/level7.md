@@ -4,15 +4,9 @@ geometry: margin=0.5in
 urlcolor: blue
 ---
 
-Everyone increases HP.
-Abraxos: 51 -> 60 (d8 + 2)
-Alba: 48 -> 53 (d8 + 0)
-Fregley: 73 -> 85 (d10 + 2 + 2)
-Lavander: 59 -> 67 (d10 + 2)
-Catmint: 27 -> 31 (6d8 -> 7d8)
-Rubis: 47 -> 54 (d8 + 2)
-Rus: 49 -> 56 (d8 + 2)
-SD: 37 -> 42
+Everyone increases HP. Abraxos: 51 -> 60 (d8 + 2) Alba: 48 -> 53 (d8 + 0)
+Fregley: 73 -> 85 (d10 + 2 + 2) Lavander: 59 -> 67 (d10 + 2) Catmint: 27 -> 31
+(6d8 -> 7d8) Rubis: 47 -> 54 (d8 + 2) Rus: 49 -> 56 (d8 + 2) SD: 37 -> 42
 
 Other than that:
 

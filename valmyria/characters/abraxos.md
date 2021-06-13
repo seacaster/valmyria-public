@@ -8,7 +8,7 @@ urlcolor: blue
 # Fiend Warlock Features
 
 - 3 cantrips
-	- Eldritch Blast, Frostbite, Toll the Dead
+  - Eldritch Blast, Frostbite, Toll the Dead
 - 2 spell slots (Lv. 4)
   - 8 spells known
   - Spell save DC 14 (8 + CHA + PB)
@@ -46,11 +46,12 @@ urlcolor: blue
 2. Mask of Many Faces (Disguise Self at will)
 3. Fiendish Vigor (False Life at will)
 4. Maddening Hex
-	- Bonus action
-  - Target is in vision range, within 30 feet, and cursed by Hex or a warlock
-     feature
-  - Psychic damage (= CHA) to target and all creatures of your choice within 5
-     feet of it
+   - Bonus action
+
+- Target is in vision range, within 30 feet, and cursed by Hex or a warlock
+  feature
+- Psychic damage (= CHA) to target and all creatures of your choice within 5
+  feet of it
 
 ## Dark One's Own Luck
 
@@ -64,9 +65,10 @@ urlcolor: blue
 ## Spell Sniper
 
 - Buffs to ranged attack spells:
-	- Doubled range
-	- Ignore half and three-quarters cover
-- Learn attack roll cantrip from bard/cleric/druid/sorcerer/warlock/wizard list (Thorn Whip)
+  - Doubled range
+  - Ignore half and three-quarters cover
+- Learn attack roll cantrip from bard/cleric/druid/sorcerer/warlock/wizard list
+  (Thorn Whip)
 
 ## Observant
 

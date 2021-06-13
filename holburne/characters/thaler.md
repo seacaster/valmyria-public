@@ -26,7 +26,9 @@ This is current as of character level 1.
 
 - 2/2 sorcerer spells known
 - 2/2 psionic spells known
-  - At each level gained, an existing psionic spell can be replaced by a Divination or Enchantment spell of the same level from the sorcerer, warlock, or wizard spell lists.
+  - At each level gained, an existing psionic spell can be replaced by a
+    Divination or Enchantment spell of the same level from the sorcerer,
+    warlock, or wizard spell lists.
 
 ### Cantrips
 
@@ -89,25 +91,27 @@ None
 ## Levels
 
 1. Aberrant Mind Sorcerer 1
-  - 8 HP (max d6 + CON = 6 + 2)
-  - Proficiencies
-    - Insight, Persuasion
-    - CON, CHA saves
-    - daggers, darts, slings, quarterstaves, light crossbows
-  - Equipment
-    - Light crossbow + bolts
-    - Daggers (2)
-    - Arcane focus (staff)
-    - Explorer's pack
-  - Spellcasting
-    - 4 sorcerer cantrips (Fire Bolt, Mage Hand, Minor Illusion, Prestidigitation)
-    - 2 sorcerer spells (Mage Armor, Sleep)
-    - 1 psionic cantrip (Mind Sliver)
-    - 2 psionic spells (Arms of Hadar, Dissonant Whispers)
-  - Telepathic speech
+
+- 8 HP (max d6 + CON = 6 + 2)
+- Proficiencies
+  - Insight, Persuasion
+  - CON, CHA saves
+  - daggers, darts, slings, quarterstaves, light crossbows
+- Equipment
+  - Light crossbow + bolts
+  - Daggers (2)
+  - Arcane focus (staff)
+  - Explorer's pack
+- Spellcasting
+  - 4 sorcerer cantrips (Fire Bolt, Mage Hand, Minor Illusion, Prestidigitation)
+  - 2 sorcerer spells (Mage Armor, Sleep)
+  - 1 psionic cantrip (Mind Sliver)
+  - 2 psionic spells (Arms of Hadar, Dissonant Whispers)
+- Telepathic speech
 
 2. Aberrant Mind Sorcerer 2
-  - 8 -> 14 HP (d6 + CON = 4 + 2)
-  - Additional sorcerer spell known (TODO)
-  - 2 SP
-  - Font of Magic
+
+- 8 -> 14 HP (d6 + CON = 4 + 2)
+- Additional sorcerer spell known (TODO)
+- 2 SP
+- Font of Magic
