@@ -42,7 +42,7 @@ urlcolor: blue
 
 ## Eldritch Invocations
 
-1. Agonizing Blast (+CHA to EB)
+1. Agonizing Blast: +3 (CHA) to EB damage
 2. Mask of Many Faces (Disguise Self at will)
 3. Fiendish Vigor (False Life at will)
 4. Maddening Hex
