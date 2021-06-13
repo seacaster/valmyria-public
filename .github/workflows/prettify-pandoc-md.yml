@@ -2,8 +2,8 @@ name: Prettify Markdown files and generate PDFs with pandoc
 
 on:
   push:
-    branches:
-      - main
+#    branches:
+#      - main
     paths:
       - "**/*.md"
       - "!README.md"
