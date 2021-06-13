@@ -15,10 +15,13 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2.3.4
+        with:
+          fetch-depth: 0
       - name: Prettify
         uses: creyD/prettier_action@v3.3
         with:
-          prettier_options: --prose-wrap always --write *.md
+          prettier_options: --prose-wrap always --write
+          only_changed: true
           commit_message: Prettified .md files via action
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
