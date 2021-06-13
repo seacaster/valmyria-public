@@ -46,7 +46,7 @@ This is current as of character level 1.
 
 ## Telepathic Speech
 
-- Bonus action
+- **Bonus action**
 - Targets creature you can see within 30 feet
 - Can speak telepathically with each other while you are within 3 (CHA) miles
   - Must be in shared language
