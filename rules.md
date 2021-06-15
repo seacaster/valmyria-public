@@ -103,10 +103,12 @@ from Tasha’s.
 
 ### Identifying Spells
 
-- Passive INT (Arcana) check
-  - Advantage (passive +5) if spell is on spell list
-  - Identify spell level with DC 10 + spell level
-  - Identify spell with DC 15 + spell level
+INT (Arcana) check when a spell is cast
+- DC = 15 + spell level
+- Consumes your **reaction**, but you _can_ cast Counterspell as part of the same reaction
+- Advantage if the spell is on your spell list
+- Disadvantage if you don't have Arcana proficiency
+- Can't retry identifying a spell without getting more information
 
 ### Other Changes and Clarifications
 
@@ -128,6 +130,11 @@ from Tasha’s.
     - Non-human races can give up their +2 ASI for a feat
 - 2/16/21: Add flanking, wording/structure clarifications, move TODOs
   - Exhaustion on hitting 0 HP seems like a bad call
+- 6/15/21: Redo spell ID rules
+	- Random instead of deterministic
+	- Allow people without proficiency to try (at disadvantage)
+	- Consume reaction without preventing simultaneous counterspell
+	- Make use of advantage/disadvantage less awkward
 
 # TODOs
 
