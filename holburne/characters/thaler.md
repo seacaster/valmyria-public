@@ -112,6 +112,6 @@ None
 2. Aberrant Mind Sorcerer 2
 
 - 8 -> 14 HP (d6 + CON = 4 + 2)
-- Additional sorcerer spell known (TODO)
+- Additional sorcerer spell known (Disguise Self)
 - 2 SP
 - Font of Magic
