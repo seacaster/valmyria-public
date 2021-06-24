@@ -106,3 +106,23 @@ The ring can hold one spell at a time, and the chosen spell is not on your spell
 list as long as it remains in the item.
 
 This item does not remove the Concentration requirement from its held spell.
+
+# Build Audit
+
+## Levels
+
+### Level 6
+
+- 51 HP
+- Spell Sniper feat
+- +1 CHA (to 17)
+
+### Level 7
+
+- 60 HP (+9; 2 from CON, 7 from d8)
+
+### Level 8
+
+- 67 HP (+7; 2 from CON, 5 from d8)
+- Skilled feat (Investigation, Perception, Athletics)
+- +1 CHA (to 18)

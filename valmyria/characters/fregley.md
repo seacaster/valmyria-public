@@ -131,3 +131,23 @@ In addition, you gain the **_Charge_** feature:
   damage.
 - If the target is a creature, it must succeed on a Strength saving throw
   against your spell save DC or be knocked prone.
+
+# Build Audit
+
+## Levels
+
+### Level 6
+
+- 73 HP (12 from CON, 12 from Tough, 10 from Lv. 1, 39 from 5d10)
+- Bump CHA (?) by 1
+- Tough feat
+
+### Level 7
+
+- 85 HP (+12; 2 from CON, 2 from Tough, 8 from d10)
+
+### Level 8
+
+- 95 HP (+10; 2 from CON, 2 from Tough, 3 -> 6 from d10)
+- +1 CHA (to 16)
+- Mage Slayer

@@ -92,3 +92,23 @@ shaped:
 - Your unarmed strikes and natural weapons gain a +1 to attack and damage rolls
 - As a bonus action, you can consume 2 charges of the orb to dash, disengage, or
   dodge.
+
+# Build Audit
+
+## Levels
+
+### Level 6
+
+- 48 HP
+- Chef feat
+- +1 WIS
+
+### Level 7
+
+- 53 HP
+
+### Level 8
+
+- ?? HP (8 + 6d8 + 5, need to redo levels 2-7 after discovering likely error)
+- Resilient (CON) feat
+- +1 CON (to 12)

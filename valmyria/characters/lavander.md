@@ -117,3 +117,23 @@ the following additional benefits:
 - If the marked target drops to 0 HP before the spell ends, you can use your
   reaction or your companion's movement to mark a new creature. (If you use your
   companion's movement, your companion's movement is 0 on its next turn.)
+
+# Build Audit
+
+## Levels
+
+### Level 6
+
+- 59 HP
+- Observant (WIS)
+- +1 WIS (to 16)
+
+### Level 7
+
+- 67 HP (+8; 2 from CON, 6 from d10)
+
+### Level 8
+
+- 79 HP (+12; 2 from CON, 10 from d10)
+- Sentinel
+- +1 to TODO

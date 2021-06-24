@@ -131,3 +131,23 @@ of the effect.
 A small wooden token that fits in the palm of your hand. One side has ornate
 engravings of the forest where you met the Fae. The other side is engraved with
 six blank almond-shaped eyes.
+
+# Build Audit
+
+## Levels
+
+### Level 6
+
+- 47 HP
+- Fey Touched feat (CHA)
+- +1 CHA (?)
+
+### Level 7
+
+- 54 HP (+7; 2 from CON, 5 from d8)
+
+### Level 8
+
+- 62 HP (+8; 2 from CON, 6 from d8)
+- Inspiring Leader feat
+- +1 to TODO

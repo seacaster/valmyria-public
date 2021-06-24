@@ -136,3 +136,23 @@ The ranged form of the gauntlet counts as a crossbow for the purposes of
 interaction with the Crossbow Expert feat.
 
 Attuning to this gauntlet grants the user one additional infusion slot.
+
+# Build Audit
+
+## Levels
+
+### Level 6
+
+- 49 HP
+- Telekinetic feat (+1 INT)
+- +1 INT (to 20, after Telekinetic)
+
+### Level 7
+
+- 56 HP (+7; 2 from CON, 5 from d8)
+
+### Level 8
+
+- 63 HP (+7; 2 from CON, 5 from d8)
+- +1 to TODO
+- TODO feat
