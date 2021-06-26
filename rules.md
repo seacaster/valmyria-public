@@ -105,7 +105,7 @@ from Tasha’s.
 
 INT (Arcana) check when a spell is cast
 
-- DC = 15 + spell level
+- DC is 15 + spell level to identify specific spell, 10 + spell level to identify the level
 - Consumes your **reaction**, but you _can_ cast Counterspell as part of the
   same reaction
 - Advantage if the spell is on your spell list
@@ -117,6 +117,27 @@ INT (Arcana) check when a spell is cast
 - Potions require a bonus action to drink, not an action
 - You cannot use both your action and your bonus action to cast spells of level
   1 or higher in the same turn.
+
+# Workshop
+
+Rules in this section are _not_ in current use - they're here for feedback and possible future integration.
+
+## Character Progression
+
+A system to split ASIs from feats would be good to allow MAD classes to keep statistical parity while still being able to take interesting feats.
+
+**Proposed solution: +1 to an ability score and +1 feat point every even level**
+
+### Ability Score Improvements
+
+Giving a +1 to any ability score every 2 levels seems doable. This lets a MAD class with a typical +2/+1 race go from 17/16/14 to 20/18/14 or 18/18/16 at level 10. It's a bit of an accelerated power curve (easily accessible +4 primary modifiers at level 2) but that's fine.
+
+### Feats
+
+- Feats will cost either 1 or 2 feat points.
+- Half-feats cost 1 point and full feats cost 2.
+- Half-feats no longer grant stat bonuses.
+- Lucky is banned due to the generally low number of combats per long rest.
 
 # Changelog
 
@@ -137,6 +158,9 @@ INT (Arcana) check when a spell is cast
   - Allow people without proficiency to try (at disadvantage)
   - Consume reaction without preventing simultaneous counterspell
   - Make use of advantage/disadvantage less awkward
+- 6/26/21
+	- Allow spell ID arcana check to identify spell level (DC 10 + spell level)
+	- Add character progression stuff to workshop
 
 # TODOs
 
