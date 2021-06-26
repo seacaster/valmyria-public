@@ -42,7 +42,7 @@ This is current as of character level 1.
 
 - Mage Armor
 - Sleep
-- TODO
+- Disguise Self
 - Arms of Hadar (psionic)
 - Dissonant Whispers (psionic)
 
